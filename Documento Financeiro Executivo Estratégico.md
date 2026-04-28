@@ -2,8 +2,6 @@
 
 ## Documento Financeiro Executivo Estratégico
 
-> Planejamento econômico, matriz de investimento, governança financeira e visão de implantação do Terra Conecta em padrão executivo institucional, com foco em geração de valor, segurança da decisão e convencimento executivo para aprovação da proposta.
-
 ![Status](https://img.shields.io/badge/status-planejamento%20executivo-6C8E2A?style=for-the-badge)
 ![Projeto](https://img.shields.io/badge/projeto-terra%20conecta-4F8FD4?style=for-the-badge)
 ![Investimento](https://img.shields.io/badge/investimento-R%24%2060.000-C88919?style=for-the-badge)
