@@ -1,5 +1,5 @@
 # 🌿 Terra Conecta  
-## Documento Executivo Estratégico — Versão Expandida Plus
+## Documento Executivo Estratégico 
 
 > Plataforma digital de assistência técnica contínua, gestão produtiva, apoio à comercialização e inteligência assistida para agricultoras familiares beneficiárias de Quintais Produtivos.
 
